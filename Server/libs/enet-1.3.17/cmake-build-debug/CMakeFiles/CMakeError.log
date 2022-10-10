@@ -1,0 +1,193 @@
+Determining if the function fcntl exists failed with the following output:
+Change Dir: D:/Avans/Jaar 4/SPC Project/PoC multiplayer/Server/libs/enet-1.3.17/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files/JetBrains/CLion 2022.2.1/bin/ninja/win/ninja.exe cmTC_f8982 && [1/2] Building C object CMakeFiles/cmTC_f8982.dir/CheckFunctionExists.c.obj
+[2/2] Linking C executable cmTC_f8982.exe
+FAILED: cmTC_f8982.exe 
+cmd.exe /C "cd . && C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\gcc.exe -DCHECK_FUNCTION_EXISTS=fcntl  CMakeFiles/cmTC_f8982.dir/CheckFunctionExists.c.obj -o cmTC_f8982.exe -Wl,--out-implib,libcmTC_f8982.dll.a -Wl,--major-image-version,0,--minor-image-version,0  -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 && cd ."
+C:\Program Files\JetBrains\CLion 2022.2.1\bin\mingw\bin/ld.exe: CMakeFiles/cmTC_f8982.dir/CheckFunctionExists.c.obj:CheckFunctionExists.c:(.text+0x15): undefined reference to `fcntl'
+collect2.exe: error: ld returned 1 exit status
+ninja: build stopped: subcommand failed.
+
+
+
+Determining if the function poll exists failed with the following output:
+Change Dir: D:/Avans/Jaar 4/SPC Project/PoC multiplayer/Server/libs/enet-1.3.17/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files/JetBrains/CLion 2022.2.1/bin/ninja/win/ninja.exe cmTC_30b61 && [1/2] Building C object CMakeFiles/cmTC_30b61.dir/CheckFunctionExists.c.obj
+[2/2] Linking C executable cmTC_30b61.exe
+FAILED: cmTC_30b61.exe 
+cmd.exe /C "cd . && C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\gcc.exe -DCHECK_FUNCTION_EXISTS=poll  CMakeFiles/cmTC_30b61.dir/CheckFunctionExists.c.obj -o cmTC_30b61.exe -Wl,--out-implib,libcmTC_30b61.dll.a -Wl,--major-image-version,0,--minor-image-version,0  -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 && cd ."
+C:\Program Files\JetBrains\CLion 2022.2.1\bin\mingw\bin/ld.exe: CMakeFiles/cmTC_30b61.dir/CheckFunctionExists.c.obj:CheckFunctionExists.c:(.text+0x15): undefined reference to `poll'
+collect2.exe: error: ld returned 1 exit status
+ninja: build stopped: subcommand failed.
+
+
+
+Determining if the function getaddrinfo exists failed with the following output:
+Change Dir: D:/Avans/Jaar 4/SPC Project/PoC multiplayer/Server/libs/enet-1.3.17/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files/JetBrains/CLion 2022.2.1/bin/ninja/win/ninja.exe cmTC_482ef && [1/2] Building C object CMakeFiles/cmTC_482ef.dir/CheckFunctionExists.c.obj
+[2/2] Linking C executable cmTC_482ef.exe
+FAILED: cmTC_482ef.exe 
+cmd.exe /C "cd . && C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\gcc.exe -DCHECK_FUNCTION_EXISTS=getaddrinfo  CMakeFiles/cmTC_482ef.dir/CheckFunctionExists.c.obj -o cmTC_482ef.exe -Wl,--out-implib,libcmTC_482ef.dll.a -Wl,--major-image-version,0,--minor-image-version,0  -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 && cd ."
+C:\Program Files\JetBrains\CLion 2022.2.1\bin\mingw\bin/ld.exe: CMakeFiles/cmTC_482ef.dir/CheckFunctionExists.c.obj:CheckFunctionExists.c:(.text+0x15): undefined reference to `getaddrinfo'
+collect2.exe: error: ld returned 1 exit status
+ninja: build stopped: subcommand failed.
+
+
+
+Determining if the function getnameinfo exists failed with the following output:
+Change Dir: D:/Avans/Jaar 4/SPC Project/PoC multiplayer/Server/libs/enet-1.3.17/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files/JetBrains/CLion 2022.2.1/bin/ninja/win/ninja.exe cmTC_37fce && [1/2] Building C object CMakeFiles/cmTC_37fce.dir/CheckFunctionExists.c.obj
+[2/2] Linking C executable cmTC_37fce.exe
+FAILED: cmTC_37fce.exe 
+cmd.exe /C "cd . && C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\gcc.exe -DCHECK_FUNCTION_EXISTS=getnameinfo  CMakeFiles/cmTC_37fce.dir/CheckFunctionExists.c.obj -o cmTC_37fce.exe -Wl,--out-implib,libcmTC_37fce.dll.a -Wl,--major-image-version,0,--minor-image-version,0  -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 && cd ."
+C:\Program Files\JetBrains\CLion 2022.2.1\bin\mingw\bin/ld.exe: CMakeFiles/cmTC_37fce.dir/CheckFunctionExists.c.obj:CheckFunctionExists.c:(.text+0x15): undefined reference to `getnameinfo'
+collect2.exe: error: ld returned 1 exit status
+ninja: build stopped: subcommand failed.
+
+
+
+Determining if the function gethostbyname_r exists failed with the following output:
+Change Dir: D:/Avans/Jaar 4/SPC Project/PoC multiplayer/Server/libs/enet-1.3.17/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files/JetBrains/CLion 2022.2.1/bin/ninja/win/ninja.exe cmTC_1f99e && [1/2] Building C object CMakeFiles/cmTC_1f99e.dir/CheckFunctionExists.c.obj
+[2/2] Linking C executable cmTC_1f99e.exe
+FAILED: cmTC_1f99e.exe 
+cmd.exe /C "cd . && C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\gcc.exe -DCHECK_FUNCTION_EXISTS=gethostbyname_r  CMakeFiles/cmTC_1f99e.dir/CheckFunctionExists.c.obj -o cmTC_1f99e.exe -Wl,--out-implib,libcmTC_1f99e.dll.a -Wl,--major-image-version,0,--minor-image-version,0  -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 && cd ."
+C:\Program Files\JetBrains\CLion 2022.2.1\bin\mingw\bin/ld.exe: CMakeFiles/cmTC_1f99e.dir/CheckFunctionExists.c.obj:CheckFunctionExists.c:(.text+0x15): undefined reference to `gethostbyname_r'
+collect2.exe: error: ld returned 1 exit status
+ninja: build stopped: subcommand failed.
+
+
+
+Determining if the function gethostbyaddr_r exists failed with the following output:
+Change Dir: D:/Avans/Jaar 4/SPC Project/PoC multiplayer/Server/libs/enet-1.3.17/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files/JetBrains/CLion 2022.2.1/bin/ninja/win/ninja.exe cmTC_93480 && [1/2] Building C object CMakeFiles/cmTC_93480.dir/CheckFunctionExists.c.obj
+[2/2] Linking C executable cmTC_93480.exe
+FAILED: cmTC_93480.exe 
+cmd.exe /C "cd . && C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\gcc.exe -DCHECK_FUNCTION_EXISTS=gethostbyaddr_r  CMakeFiles/cmTC_93480.dir/CheckFunctionExists.c.obj -o cmTC_93480.exe -Wl,--out-implib,libcmTC_93480.dll.a -Wl,--major-image-version,0,--minor-image-version,0  -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 && cd ."
+C:\Program Files\JetBrains\CLion 2022.2.1\bin\mingw\bin/ld.exe: CMakeFiles/cmTC_93480.dir/CheckFunctionExists.c.obj:CheckFunctionExists.c:(.text+0x15): undefined reference to `gethostbyaddr_r'
+collect2.exe: error: ld returned 1 exit status
+ninja: build stopped: subcommand failed.
+
+
+
+Determining if the function inet_pton exists failed with the following output:
+Change Dir: D:/Avans/Jaar 4/SPC Project/PoC multiplayer/Server/libs/enet-1.3.17/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files/JetBrains/CLion 2022.2.1/bin/ninja/win/ninja.exe cmTC_9b449 && [1/2] Building C object CMakeFiles/cmTC_9b449.dir/CheckFunctionExists.c.obj
+[2/2] Linking C executable cmTC_9b449.exe
+FAILED: cmTC_9b449.exe 
+cmd.exe /C "cd . && C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\gcc.exe -DCHECK_FUNCTION_EXISTS=inet_pton  CMakeFiles/cmTC_9b449.dir/CheckFunctionExists.c.obj -o cmTC_9b449.exe -Wl,--out-implib,libcmTC_9b449.dll.a -Wl,--major-image-version,0,--minor-image-version,0  -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 && cd ."
+C:\Program Files\JetBrains\CLion 2022.2.1\bin\mingw\bin/ld.exe: CMakeFiles/cmTC_9b449.dir/CheckFunctionExists.c.obj:CheckFunctionExists.c:(.text+0x15): undefined reference to `inet_pton'
+collect2.exe: error: ld returned 1 exit status
+ninja: build stopped: subcommand failed.
+
+
+
+Determining if the function inet_ntop exists failed with the following output:
+Change Dir: D:/Avans/Jaar 4/SPC Project/PoC multiplayer/Server/libs/enet-1.3.17/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files/JetBrains/CLion 2022.2.1/bin/ninja/win/ninja.exe cmTC_d4748 && [1/2] Building C object CMakeFiles/cmTC_d4748.dir/CheckFunctionExists.c.obj
+[2/2] Linking C executable cmTC_d4748.exe
+FAILED: cmTC_d4748.exe 
+cmd.exe /C "cd . && C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\gcc.exe -DCHECK_FUNCTION_EXISTS=inet_ntop  CMakeFiles/cmTC_d4748.dir/CheckFunctionExists.c.obj -o cmTC_d4748.exe -Wl,--out-implib,libcmTC_d4748.dll.a -Wl,--major-image-version,0,--minor-image-version,0  -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 && cd ."
+C:\Program Files\JetBrains\CLion 2022.2.1\bin\mingw\bin/ld.exe: CMakeFiles/cmTC_d4748.dir/CheckFunctionExists.c.obj:CheckFunctionExists.c:(.text+0x15): undefined reference to `inet_ntop'
+collect2.exe: error: ld returned 1 exit status
+ninja: build stopped: subcommand failed.
+
+
+
+Performing C SOURCE FILE Test HAS_MSGHDR_FLAGS failed with the following output:
+Change Dir: D:/Avans/Jaar 4/SPC Project/PoC multiplayer/Server/libs/enet-1.3.17/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files/JetBrains/CLion 2022.2.1/bin/ninja/win/ninja.exe cmTC_e215e && [1/2] Building C object CMakeFiles/cmTC_e215e.dir/src.c.obj
+FAILED: CMakeFiles/cmTC_e215e.dir/src.c.obj 
+C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\gcc.exe -DHAS_MSGHDR_FLAGS   -o CMakeFiles/cmTC_e215e.dir/src.c.obj -c "D:/Avans/Jaar 4/SPC Project/PoC multiplayer/Server/libs/enet-1.3.17/cmake-build-debug/CMakeFiles/CMakeTmp/src.c"
+D:/Avans/Jaar 4/SPC Project/PoC multiplayer/Server/libs/enet-1.3.17/cmake-build-debug/CMakeFiles/CMakeTmp/src.c:3:10: fatal error: sys/socket.h: No such file or directory
+    3 | #include <sys/socket.h>
+      |          ^~~~~~~~~~~~~~
+compilation terminated.
+ninja: build stopped: subcommand failed.
+
+
+Source file was:
+
+#include <sys/types.h>
+#include <sys/socket.h>
+
+int main()
+{
+  (void)sizeof(((struct msghdr *)0)->msg_flags);
+  return 0;
+}
+
+Determining size of socklen_t failed with the following output:
+Change Dir: D:/Avans/Jaar 4/SPC Project/PoC multiplayer/Server/libs/enet-1.3.17/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/Program Files/JetBrains/CLion 2022.2.1/bin/ninja/win/ninja.exe cmTC_e78ea && [1/2] Building C object CMakeFiles/cmTC_e78ea.dir/HAS_SOCKLEN_T.c.obj
+FAILED: CMakeFiles/cmTC_e78ea.dir/HAS_SOCKLEN_T.c.obj 
+C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\gcc.exe    -o CMakeFiles/cmTC_e78ea.dir/HAS_SOCKLEN_T.c.obj -c "D:/Avans/Jaar 4/SPC Project/PoC multiplayer/Server/libs/enet-1.3.17/cmake-build-debug/CMakeFiles/CheckTypeSize/HAS_SOCKLEN_T.c"
+D:/Avans/Jaar 4/SPC Project/PoC multiplayer/Server/libs/enet-1.3.17/cmake-build-debug/CMakeFiles/CheckTypeSize/HAS_SOCKLEN_T.c:2:10: fatal error: sys/socket.h: No such file or directory
+    2 | #include "sys/socket.h"
+      |          ^~~~~~~~~~~~~~
+compilation terminated.
+ninja: build stopped: subcommand failed.
+
+
+D:/Avans/Jaar 4/SPC Project/PoC multiplayer/Server/libs/enet-1.3.17/cmake-build-debug/CMakeFiles/CheckTypeSize/HAS_SOCKLEN_T.c:
+#include "sys/types.h"
+#include "sys/socket.h"
+
+
+#undef KEY
+#if defined(__i386)
+# define KEY '_','_','i','3','8','6'
+#elif defined(__x86_64)
+# define KEY '_','_','x','8','6','_','6','4'
+#elif defined(__PPC64__)
+# define KEY '_','_','P','P','C','6','4','_','_'
+#elif defined(__ppc64__)
+# define KEY '_','_','p','p','c','6','4','_','_'
+#elif defined(__PPC__)
+# define KEY '_','_','P','P','C','_','_'
+#elif defined(__ppc__)
+# define KEY '_','_','p','p','c','_','_'
+#elif defined(__aarch64__)
+# define KEY '_','_','a','a','r','c','h','6','4','_','_'
+#elif defined(__ARM_ARCH_7A__)
+# define KEY '_','_','A','R','M','_','A','R','C','H','_','7','A','_','_'
+#elif defined(__ARM_ARCH_7S__)
+# define KEY '_','_','A','R','M','_','A','R','C','H','_','7','S','_','_'
+#endif
+
+#define SIZE (sizeof(socklen_t))
+static char info_size[] =  {'I', 'N', 'F', 'O', ':', 's','i','z','e','[',
+  ('0' + ((SIZE / 10000)%10)),
+  ('0' + ((SIZE / 1000)%10)),
+  ('0' + ((SIZE / 100)%10)),
+  ('0' + ((SIZE / 10)%10)),
+  ('0' +  (SIZE    % 10)),
+  ']',
+#ifdef KEY
+  ' ','k','e','y','[', KEY, ']',
+#endif
+  '\0'};
+
+#ifdef __CLASSIC_C__
+int main(argc, argv) int argc; char *argv[];
+#else
+int main(int argc, char *argv[])
+#endif
+{
+  int require = 0;
+  require += info_size[argc];
+  (void)argv;
+  return require;
+}
+
+
